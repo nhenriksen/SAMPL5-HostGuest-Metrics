@@ -1,3 +1,5 @@
+### Written by Niel Henriksen
+
 import sys,re
 import numpy as np
 from scipy import stats
